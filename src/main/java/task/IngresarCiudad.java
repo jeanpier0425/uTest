@@ -24,7 +24,7 @@ public class IngresarCiudad implements Task {
     @Override
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(
-                Enter.theValue(city).into(CITY)
+                Enter.theValue(city).into(CITY) 
         );
         robot.keyPress(KeyEvent.VK_DOWN);
         robot.keyRelease(KeyEvent.VK_DOWN);

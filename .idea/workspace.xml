@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4e52607-56e8-40cc-aa96-562c32680c1a" name="Default Changelist" comment="" />
+    <list default="true" id="b4e52607-56e8-40cc-aa96-562c32680c1a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task/IngresarCiudad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/IngresarCiudad.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -101,7 +104,7 @@
                 <entry file="file://$PROJECT_DIR$/src/main/java/task/IngresarCiudad.java">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="105">
-                      <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+                      <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
                       <folding>
                         <element signature="imports" expanded="true" />
                         <element signature="e#328#329#0" expanded="true" />
@@ -149,6 +152,13 @@
         <option value="$PROJECT_DIR$/src/main/java/task/PasoDatosPersonales.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/web/stepdefinitions/testingStepDefinition.java" />
         <option value="$PROJECT_DIR$/src/main/java/task/IngresarCiudad.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -268,6 +278,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
   </component>
   <component name="RecentsManager">
@@ -456,7 +467,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/task/IngresarCiudad.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#328#329#0" expanded="true" />
